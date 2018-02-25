@@ -1,0 +1,8 @@
+/node_modules
+/public/hot
+/public/scc
+/public/js
+/public/mix-manifest.json
+/.idea
+npm-debug.log
+package-lock.json
