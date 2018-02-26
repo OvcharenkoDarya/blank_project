@@ -1,3 +1,4 @@
+global.$ = global.jQuery = require('jquery');
 export const SiteHelper = {
 
     width: $(window).width() > $('body').width() ? $(window).width() : $('body').width(),
